@@ -7,7 +7,3 @@ class TreeNode
 end
 
 
-a = Psych.load_file('./trees.yml')
-
-puts a.inspect
-
