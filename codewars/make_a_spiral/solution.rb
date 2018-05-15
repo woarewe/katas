@@ -8,9 +8,11 @@ DIRECTIONS = {
 }.each { |_k, v| v.freeze }.freeze
 
 
+
 def check_position
 
 end
+
 def spiralize(size)
   matrix = Matrix.build(size) { 0 }.to_a
   i = 0
