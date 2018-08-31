@@ -49,4 +49,4 @@ build-iPhoneSimulator/
 .rvmrc
 .idea
 Gemfile.lock
-./other/test.rb
+
